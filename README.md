@@ -1,23 +1,19 @@
 ## README: Portfolio Website
 
-[cite_start]This repository contains the source code for my professional portfolio website[cite: 30]. [cite_start]The site is designed to showcase my journey as a **Computer Science student** and highlight my expertise in **Data Analysis** and **Frontend Web Development**[cite: 6, 31, 34].
+This repository contains the source code for my professional portfolio website[cite: 30]. [cite_start]The site is designed to showcase my journey as a **Computer Science student** and highlight my expertise in **Data Analysis** and **Frontend Web Development**.
 
 ---
 
 ### 🚀 Overview
-[cite_start]The goal of this project was to create a central hub for my professional identity, featuring a fully responsive design, smooth navigation, and interactive elements[cite: 31, 32].
+The goal of this project was to create a central hub for my professional identity, featuring a fully responsive design, smooth navigation, and interactive element.
 
-* **Live Demo:** [Insert Link Here]
 * **Target Audience:** Recruiters, collaborators, and fellow developers.
 
 ---
 
 ### 🛠️ Tech Stack
-[cite_start]This project was built using core web technologies to ensure performance and cross-device compatibility[cite: 30, 31]:
-
-* [cite_start]**HTML5:** Structured content and semantic elements[cite: 8, 13].
-* [cite_start]**CSS3:** Custom styling, animations, and responsive design principles[cite: 8, 13, 32].
-* [cite_start]**JavaScript:** Dynamic content handling and smooth UI interactions[cite: 8, 13, 32].
+This project was built using core web technologies to ensure performance and cross-device compatibility
+**HTML5:** Structured content and semantic element**CSS3:** Custom styling, animations, and responsive design principles*JavaScript:** Dynamic content handling and smooth UI interactions.
 
 ---
 
@@ -44,7 +40,6 @@ Integrating a blog section to share insights on **Data Transformation** and **KP
 
 ### 📬 Contact Information
 * **Email:** skandasaxena96@gmail.com 
-* **LinkedIn:** [Your Profile Link]
-***GitHub:** [Your GitHub Link] **Phone:** (+91) 9528069147 
+***GitHub:**(https://github.com/skandasaxena) **Phone:** (+91) 9528069147 
 
 Would you like me to help you draft the **"About Me"** section for your site using these details?
